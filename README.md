@@ -32,3 +32,5 @@ jupyter notebook Traffic_Signs_Recognition.ipynb
 ```
 3. Follow the instructions in the `Traffic_Signs_Recognition.ipynb` notebook.
 
+# traffic-signs-detection
+# classifying-traffic-signs
